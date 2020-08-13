@@ -1,6 +1,7 @@
-### Hi there 👋
+likelionSungGuk 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
