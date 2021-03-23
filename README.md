@@ -2,9 +2,11 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/badge/javascript-ES6+-orange
+![](https://img.shields.io/badge/javascript-ES6+-orange)
 
 🔭 I’m currently working on SSAFY
-🌱 I’m currently learning https://img.shields.io/badge/javascript-ES6+-orange, Vue.js, React
+🌱 I’m currently learning javascript, Vue.js, React
 📫 How to reach me: sung9gi@gmail.com
 ⚡ Fun fact: funny face and positive vibe :)
 💬 my Portfolio link is https://www.notion.so/5676722e7feb4cf782a79676d0cb13d5
