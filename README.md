@@ -1,6 +1,6 @@
 ### Daily Improving ++ Front-end dev likelionSungGuk 👋
 
-![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/Vue.js-yellow) ![](https://img.shields.io/badge/Node.js-yellow) ![](https://img.shields.io/badge/Backend-black) ![](https://img.shields.io/badge/python-blue) ![](https://img.shields.io/badge/django-blue) ![](https://img.shields.io/badge/socket.io-blueviolet)
+![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/Vue.js-yellow) ![](https://img.shields.io/badge/React-yellow) ![](https://img.shields.io/badge/Backend-black) ![](https://img.shields.io/badge/python-blue) ![](https://img.shields.io/badge/django-blue) ![](https://img.shields.io/badge/Node.js-blue) ![](https://img.shields.io/badge/socket.io-blueviolet)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
