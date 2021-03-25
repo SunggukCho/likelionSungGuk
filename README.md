@@ -1,4 +1,4 @@
-### 안녕하세요, 성장하는 개발자 조성국입니다! 👋
+### Daily Improving ++ Front-end dev likelionSungGuk 👋
 
 ![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/Vue.js-yellow) ![](https://img.shields.io/badge/Node.js-yellow) ![](https://img.shields.io/badge/Backend-black) ![](https://img.shields.io/badge/python-blue) ![](https://img.shields.io/badge/django-blue) ![](https://img.shields.io/badge/socket.io-blueviolet)
 
@@ -11,7 +11,8 @@
 🌱 I’m currently learning javascript ES6+, Vue.js, React  
 📫 How to reach me: sung9gi@gmail.com  
 ⚡ Fun fact: funny face and positive vibe :)  
-💬 my Portfolio link is [likelionSungGuk portfolio](https://www.notion.so/5676722e7feb4cf782a79676d0cb13d5)  
+💬 my Portfolio link is in notion [likelionSungGuk portfolio](https://www.notion.so/5676722e7feb4cf782a79676d0cb13d5)  
+
 <!--
 **likelionSungGuk/likelionSungGuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
