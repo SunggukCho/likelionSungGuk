@@ -5,7 +5,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
 🔭 I’m currently working on [chatchat](https://github.com/likelionSungGuk/chatchat) project  
 🌱 I’m currently learning javascript ES6+, Vue.js, React  
 📫 How to reach me: sung9gi@gmail.com  
