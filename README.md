@@ -5,8 +5,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working for Teneleven (a.k.a Constructech IT startup) as a Frontend Developer
-🌱 I’m currently learning javascript, typescript, React, redux, redux-saga
+🔭 I’m currently working for Teneleven (a.k.a Constructech IT startup) as a Frontend Developer  
+🌱 I’m currently learning javascript, typescript, React, redux, redux-saga  
 📫 How to reach me: sung9gi@gmail.com  
 ⚡ Fun fact: positive vibe :)  
 💬 my Portfolio link is in notion [likelionSungGuk portfolio](https://www.notion.so/5676722e7feb4cf782a79676d0cb13d5)  
