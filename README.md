@@ -1,6 +1,6 @@
 ### Daily Improving ++ Front-end dev likelionSungGuk 👋
 
-![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/-typescript-yellow) ![](https://img.shields.io/badge/React-yellow) ![](https://img.shields.io/badge/Node.js-yellow) ![](https://img.shields.io/badge/webpack) ![](https://img.shields.io/badge/python-blue) 
+![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/-typescript-yellow) ![](https://img.shields.io/badge/React-yellow) ![](https://img.shields.io/badge/Node.js-yellow) ![](https://img.shields.io/badge/Redux-yellow) ![](https://img.shields.io/badge/webpack) ![](https://img.shields.io/badge/python-blue) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
