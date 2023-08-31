@@ -1,12 +1,11 @@
 ### Daily Improving ++ Front-end dev likelionSungGuk 👋
 
-![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/-typescript-yellow) ![](https://img.shields.io/badge/React-yellow) ![](https://img.shields.io/badge/Redux-yellow)  ![](https://img.shields.io/badge/Recoil-yellow)  ![](https://img.shields.io/badge/ReactQuery-yellow) 
+![](https://img.shields.io/badge/Frontend-black) ![](https://img.shields.io/badge/javascript-yellow) ![](https://img.shields.io/badge/-typescript-yellow) ![](https://img.shields.io/badge/React-yellow) ![](https://img.shields.io/badge/Next-yellow) ![](https://img.shields.io/badge/React-native-yellow) ![](https://img.shields.io/badge/Graphql) ![](https://img.shields.io/badge/Apollo-Client-yellopw)  ![](https://img.shields.io/badge/Redux-yellow)  ![](https://img.shields.io/badge/Recoil-yellow)  ![](https://img.shields.io/badge/ReactQuery-yellow) 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=likelionSungGuk&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 I’m currently working for Teneleven (a.k.a Constructech IT startup) as a Frontend Developer  
-🌱 I’m currently learning javascript, typescript, React, redux, redux-saga  
+🔭 I’m currently working for Goodoc as a Frontend Developer  
 📫 How to reach me: sung9gi@gmail.com  
 ⚡ Fun fact: positive vibe :)  
 💬 my Portfolio link is in notion [likelionSungGuk portfolio](https://www.notion.so/5676722e7feb4cf782a79676d0cb13d5)  
